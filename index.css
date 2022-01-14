@@ -160,7 +160,7 @@ body {
     height: 40px;
 }
 #logo {
-    background-image: url("businesscardprinting\ j.png");
+    background-image: url("NTECHphoto3.jpg");
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
@@ -169,7 +169,7 @@ body {
     float: left;
     height: 80;
     width: 246;
-    margin-left: -50px;
+    margin-left: -10px;
 }
 ul.nav {
     float: right;
